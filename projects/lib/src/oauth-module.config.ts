@@ -1,6 +1,6 @@
 export abstract class OAuthModuleConfig {
   noInterceptor?: boolean;
-  resourceServer: OAuthResourceServerConfig;
+  resourceServer?: OAuthResourceServerConfig;
 }
 
 export abstract class OAuthResourceServerConfig {

@@ -1,5 +1,5 @@
 {
-  "name": "angular-oauth2-oidc",
+  "name": "@tremonsoft/angular-oauth2-oidc",
   "version": "13.0.0",
   "license": "MIT",
   "scripts": {
